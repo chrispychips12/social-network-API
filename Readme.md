@@ -3,6 +3,7 @@
 ## Video Tutorial 
 https://drive.google.com/file/d/1pJ-h8LXFWBNhCxPt6v6gFX7l6IYOsNvd/view
 
+<img width="862" alt="Screenshot 2024-10-09 at 1 27 26 PM" src="https://github.com/user-attachments/assets/a11a3c4a-7498-4405-90ea-95b83b24af66">
 
 
 ## Table of Contents
